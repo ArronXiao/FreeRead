@@ -28,7 +28,7 @@ android {
 
 greendao{
     schemaVersion 3
-    daoPackage 'com.example.jdd.ireader.model.gen'
+    daoPackage 'com.jdd.free.ireader.model.gen'
     targetGenDir 'src/main/java'
 }
 
